@@ -1,1 +1,1 @@
-# javascript
+Pokemon api (only mobile version)
